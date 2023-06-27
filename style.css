@@ -1,7 +1,15 @@
-.card{
-    width: 360px;
+.card-img-top{
+    width: 200px;
 }
 
-.card-img-top{
-    width: 100%;
+.karate{
+    width: 500px;
+}
+
+body{
+    text-align: center;
+}
+
+.footer{
+    text-align: left;
 }
