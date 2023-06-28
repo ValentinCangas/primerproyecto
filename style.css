@@ -1,14 +1,12 @@
 .card-img-top{
     width: 200px;
+    text-align: center;
 }
 
 .karate{
     width: 500px;
 }
 
-body{
-    text-align: center;
-}
 
 .footer{
     text-align: left;
