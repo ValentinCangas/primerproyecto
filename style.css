@@ -3,16 +3,14 @@
     text-align: center;
 }
 
-.karate{
-    width: 500px;
-    text-align: center;
-}
-
-
 .footer{
     text-align: left;
 }
 
+.karate{
+    width: 600px;
+}
+
 body{
-    color: rgb(53, 53, 53);
+    background-color: black;
 }
