@@ -1,0 +1,35 @@
+
+card-img-top{
+    width: 200px;
+    text-align: center;
+}
+
+.footer{
+    text-align: left;
+}
+
+.karate{
+    width: 700px;
+    margin: 16%;
+}
+
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(16, 16, 107) ;
+}
+
+h1{
+    font-family:monospace;
+}
+
+.card{
+    margin: 3%;
+}
+
+body{
+    background-color: black;
+}
+
+footer{
+    color: blanchedalmond;
+}
