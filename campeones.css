@@ -8,8 +8,23 @@ h1{
 }
 
 fieldset{
-    background-color: white;
+    background-color: rgb(255, 255, 255);
+    margin: 4%;
 }
 h2{
     text-align: center;
+}
+
+img{
+    width: 500px;
+    margin: 3%;
+}
+
+p{
+    margin: 3%;
+    color: rgb(0, 4, 248);
+}
+
+h2{
+    color: rgb(0, 4, 248);
 }
