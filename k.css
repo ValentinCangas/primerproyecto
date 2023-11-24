@@ -3,10 +3,14 @@ body{
 }
 
 footer{
-    color: blanchedalmond;
+    color: white;
 }
 
 fieldset{
-    background-color: blanchedalmond;
+    background-color: grey;
     text-align: center;
+}
+
+p{
+    color: white;
 }

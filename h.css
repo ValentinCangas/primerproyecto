@@ -1,6 +1,6 @@
 p{
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  color: black;
+  color: white;
   margin: 2%;
 }
 
@@ -9,7 +9,7 @@ body{
 }
 
 fieldset{
-    background-color: blanchedalmond;
+    background-color: grey;
     margin: 1%;
 }
  
@@ -18,11 +18,11 @@ h1{
 }
 
 .epigrafe{
-    color: blanchedalmond;
+    color: white;
 }
 
 footer{
-    color: blanchedalmond;
+    color: white;
 }
 
 img{
