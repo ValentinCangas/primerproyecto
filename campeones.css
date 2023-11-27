@@ -8,7 +8,7 @@ h1{
 }
 
 fieldset{
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(168, 167, 167);
     margin: 4%;
 }
 h2{
@@ -24,11 +24,11 @@ img{
 
 p{
     margin: 3%;
-    color: rgb(0, 4, 248);
+    color: rgb(255, 255, 255);
 }
 
 h2{
-    color: rgb(0, 4, 248);
+    color: black;
 }
 
 footer{
